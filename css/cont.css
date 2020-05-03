@@ -1,0 +1,21 @@
+.row  {
+	  border: 4px solid #CCC;
+  padding: 1em;
+  margin: 1em 0 1em 8em;
+  width: 1133px;  
+  column-count: 2;
+}
+
+.card-img-top {
+	  background-size: cover;
+  position: relative;
+  left: 0%;
+  display: flex;
+  flex-flow: row;
+  width: 493px;
+  height: 370px;
+}
+
+
+}
+
