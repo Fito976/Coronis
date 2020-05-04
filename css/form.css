@@ -1,0 +1,19 @@
+.row  {
+	  border: 2px solid #CCC;
+  padding: 1em;
+  width: 900px;
+  margin-right: auto;
+  margin-left: auto; 
+}
+
+.card {
+	  background-size: cover;
+  position: relative;
+  left: 0%;
+  display: flex;
+  flex-flow: row;
+  width: 493px;
+  height: 470px;
+  margin-right: auto;
+  margin-left: 180px;
+}
